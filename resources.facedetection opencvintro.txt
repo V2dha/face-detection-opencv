@@ -1,0 +1,5 @@
+The resources used are:
+
+https://github.com/coding-blocks-archives/Face-Detection-Workshop-May-2020
+https://www.dropbox.com/s/5o64ru428jlb29g/haarcascade_frontalface_alt.xml?dl=0
+https://github.com/opencv/opencv/tree/master/data/haarcascades
